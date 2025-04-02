@@ -8,7 +8,7 @@
 
 <!-- 깔끔한 아이콘 링크 (선택사항) -->
 <p align="center">
-  <a href="https://your-portfolio.com" target="_blank">Portfolio</a> •
+  <a href="https://www.notion.so/Portfolio-1c7585575a4a8094bf27e857dbca6c42" target="_blank">Portfolio</a> •
   <a href="mailto:mykiringirin@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/ji-yeom-80658b284" target="_blank">LinkedIn</a>
 </p>
